@@ -1,5 +1,5 @@
 ### Hi there, I am Nils aka blackforestcode! 👋
-
+I mainly work with the TALL stack: Tailwindcss, Alpinejs, Livewire and Laravel.
 <!--
 **blackforestcode/blackforestcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Stats](https://myreadme.vercel.app/api/embed/blackforestcode?panels=userstatistics,commitgraph)
+
